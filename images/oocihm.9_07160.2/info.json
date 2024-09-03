@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 92,
+    "height" : 146
+  }, {
+    "width" : 183,
+    "height" : 292
+  }, {
+    "width" : 366,
+    "height" : 584
+  }, {
+    "width" : 732,
+    "height" : 1168
+  }, {
+    "width" : 1464,
+    "height" : 2335
+  }, {
+    "width" : 2928,
+    "height" : 4669
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2928,
+  "@id" : "https://brittnylapierre.github.io/IIIF Test/images/oocihm.9_07160.2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4669
+}
